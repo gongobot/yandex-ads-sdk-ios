@@ -1,4 +1,6 @@
-Quick start
+#Yandex Mobile Ads SDK Examples
+
+##Quick start
 
 Install CocoaPods to manage project dependencies, if you haven't done it yet.
 
